@@ -1,0 +1,10 @@
+package com.bolzanoprovince.tendering.model.enums;
+
+public enum EvaluationType {
+
+    MOST_ECONOMICALLY_ADVANTAGEOUS_OFFER_ONLY_PRICE,
+    MOST_ECONOMICALLY_ADVANTAGEOUS_OFFER_PRICE_TECH,
+    MOST_ECONOMICALLY_ADVANTAGEOUS_OFFER_ONLY_TECH
+
+
+}
